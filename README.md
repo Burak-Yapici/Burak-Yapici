@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Burak-Yapici
 - 👀 I’m interested in software
 - 🌱 I’m currently learning software
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me byapici95@gmail.com
 
 
